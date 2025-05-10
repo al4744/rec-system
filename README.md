@@ -1,5 +1,5 @@
 # rec-system
-🎵 A Python-based content recommendation system utilizing ML algorithms to analyze a 600k-song dataset. It incorporates SVD, NMF, and Factorization Machines to deliver personalized music recommendations. The system handles cold start problems, optimizes using weighted similarity metrics, and includes tools for model visualization and performance evaluation.
+🎵 A Python-based content recommendation system utilizing ML algorithms to analyze a 600k-song dataset. It incorporates Direct Similarity, SVD, NMF, and Factorization Machines to deliver personalized music recommendations. The system handles cold start problems, optimizes using weighted similarity metrics, and includes tools for model visualization and performance evaluation.
 
 ## Features:
 - **Multi-Model Engine**: Developed a recommendation system that processes and analyzes a dataset of 600k songs, combining audio features and metadata. Utilized Direct Similarity Matching, SVD, NMF, and Factorization Machines to generate personalized recommendations based on user preferences and behavior.
